@@ -1,0 +1,20 @@
+{
+  "name": "@puredizzi/express-create-server",
+  "version": "0.1.0",
+  "description": "Helper for starting a HTTP server.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/PureDizzi/express-create-server.git"
+  },
+  "author": "PureDizzi <puredizzi@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/PureDizzi/express-create-server",
+  "bugs": {
+      "url" : "https://github.com/PureDizzi/express-create-server/issues"
+  },
+  "dependencies": {
+        "chalk": "^4.1.0"
+    }
+}
